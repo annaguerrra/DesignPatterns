@@ -1,0 +1,5 @@
+C:\Users\disrct\Desktop\DesignPatterns\Robot\obj\Debug\net9.0\Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\DesignPatterns\Robot\obj\Debug\net9.0\Robot.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\DesignPatterns\Robot\obj\Debug\net9.0\Robot.AssemblyInfo.cs
+C:\Users\disrct\Desktop\DesignPatterns\Robot\obj\Debug\net9.0\Robot.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\DesignPatterns\Robot\obj\Debug\net9.0\Robot.sourcelink.json

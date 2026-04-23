@@ -1,0 +1,14 @@
+C:\Users\disrct\Desktop\DesignPatterns\Doke\bin\Debug\net9.0\Doke.exe
+C:\Users\disrct\Desktop\DesignPatterns\Doke\bin\Debug\net9.0\Doke.deps.json
+C:\Users\disrct\Desktop\DesignPatterns\Doke\bin\Debug\net9.0\Doke.runtimeconfig.json
+C:\Users\disrct\Desktop\DesignPatterns\Doke\bin\Debug\net9.0\Doke.dll
+C:\Users\disrct\Desktop\DesignPatterns\Doke\bin\Debug\net9.0\Doke.pdb
+C:\Users\disrct\Desktop\DesignPatterns\Doke\obj\Debug\net9.0\Doke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\DesignPatterns\Doke\obj\Debug\net9.0\Doke.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\DesignPatterns\Doke\obj\Debug\net9.0\Doke.AssemblyInfo.cs
+C:\Users\disrct\Desktop\DesignPatterns\Doke\obj\Debug\net9.0\Doke.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\DesignPatterns\Doke\obj\Debug\net9.0\Doke.dll
+C:\Users\disrct\Desktop\DesignPatterns\Doke\obj\Debug\net9.0\refint\Doke.dll
+C:\Users\disrct\Desktop\DesignPatterns\Doke\obj\Debug\net9.0\Doke.pdb
+C:\Users\disrct\Desktop\DesignPatterns\Doke\obj\Debug\net9.0\Doke.genruntimeconfig.cache
+C:\Users\disrct\Desktop\DesignPatterns\Doke\obj\Debug\net9.0\ref\Doke.dll

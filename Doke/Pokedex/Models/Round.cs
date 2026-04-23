@@ -36,9 +36,9 @@ public class Round(Pokemon pokemon1, Pokemon pokemon2)
                 battleEnd = true;
             }
 
-            Console.WriteLine($"\n{p1.Name}              | {p2.Name}");
-            Console.WriteLine($"Used: {attack1.Name}   | Used: {attack2.Name}");
-            Console.WriteLine($"HP: {p1.Hp}                 | HP: {p2.Hp}");      
+            Console.WriteLine($"\n{p1.Name} |               {p2.Name}");
+            Console.WriteLine($"Used: {attack1.Name} |   Used: {attack2.Name}");
+            Console.WriteLine($"HP: {p1.Hp} |                  HP: {p2.Hp}");      
 
             if (battleEnd)
             {

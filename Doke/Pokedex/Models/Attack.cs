@@ -1,4 +1,6 @@
+using System.Runtime.InteropServices.Marshalling;
 using Doke.Pokedex.Enum;
+using Doke.Pokedex.Models;
 
 namespace Doke.Pokedex;
 
@@ -7,6 +9,12 @@ public class Attack(string name, int damage, PokemonType type)
     public string Name {get;set;} = name;
     public int Damage {get;set;} = damage;
     public PokemonType Type {get;set;} = type;
+    public IStrategy strategy{ get; set; } = strategy;
+
+    public Attack toAttack(Pokemon target)
+    {
+        return strategy.Execute(this, target)   ;
+    }
 }
 
 

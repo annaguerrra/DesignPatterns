@@ -7,6 +7,7 @@ public class Pokemon
     public string Name { get; set;}
     public int Hp {get; set; }
     public PokemonType Type { get; set; }
+    public IStrategy strategy{ get; set; } = strategy;
     public List<Attack> Attacks { get; set; } = new List<Attack>(5);
 
     public Pokemon(string name, int hp, PokemonType type, List<Attack> attacks)

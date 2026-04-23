@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Doke")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97e18e749d25d21829d6107b6b778a5030da762d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Doke")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Doke")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

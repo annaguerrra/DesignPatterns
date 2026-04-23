@@ -63,8 +63,12 @@ Pokedex/
  Enum/PokemonType.cs
  Models/
   Attack.cs
+  Ditto.cs
+  IStrategy.cs
+  Necrozma.cs
   Pokemon.cs
   Round.cs
+  Squirtle.cs
 Program.cs
 
 [metadataReferences]

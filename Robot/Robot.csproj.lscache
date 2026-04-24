@@ -55,9 +55,6 @@ TemporaryDependencyNodeTargetIdentifier=net9.0
 /warnaserror+:NU1605,SYSLIB0011
 
 [sourceFiles]
-Models/Behaviours/
- Combat.cs
- Hacking.cs
 Models/
  Combat.cs
  Hacking.cs

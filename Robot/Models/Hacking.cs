@@ -1,12 +1,8 @@
 public class Hacking : IBehavior
 {
-    public void Execute()
+    public void Execute(Robot robot)
     {
-        throw new NotImplementedException();
+        Console.WriteLine("hAckEd");
     }
 
-    public void onHacking()
-    {
-        Console.WriteLine("hAckEaD");
-    }
 }

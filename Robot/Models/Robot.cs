@@ -1,11 +1,10 @@
-public class Robot 
+public class Robot(IBehavior behavior)
 {
+    public IBehavior _behavior= behavior;
     public void Act()
     {
-        int i = 0;
-        while(i < 20)
-        {
-
-        }
+        for( int i = 0; i < 20; i++)
+            _behavior.Execute( this );
+  
     }
 }

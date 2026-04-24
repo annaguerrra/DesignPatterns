@@ -1,4 +1,4 @@
-public class MacButtonFactory : IButtonFactory
+public class MacButtonFactory : ButtonFactory
 {
     public IButton Create()
     {

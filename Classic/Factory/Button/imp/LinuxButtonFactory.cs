@@ -1,4 +1,4 @@
-public class LinuxButtonFactory : IButtonFactory
+public class LinuxButtonFactory : ButtonFactory
 {
     public IButton Create()
     {

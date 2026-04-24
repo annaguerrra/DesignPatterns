@@ -1,4 +1,4 @@
-public class WindowsButtonFactory : IButtonFactory
+public class WindowsButtonFactory : ButtonFactory
 {
     public IButton Create()
     {

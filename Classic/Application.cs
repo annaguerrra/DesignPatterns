@@ -1,9 +1,10 @@
-public class Application(IButtonFactory factory)
+public class Application(string obj, ButtonFactory factory)
 {
-    public IButtonFactory Factory = factory;
+    private ButtonFactory Factory = factory;
+    private string obj = obj;
 
     public void CreateButton( )
     {
-        Factory.Create();
+        Factory.Create(obj);
     }
 }
